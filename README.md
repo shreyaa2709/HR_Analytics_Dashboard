@@ -31,6 +31,21 @@ Power Query – For data cleaning and transformation
 
 Excel / CSV (Data Source) – Mock data representing employee records
 
+## 📊 Data Assumptions (If Not Using Real Data):
+The dashboard is built using a fictional HR dataset (often modeled after IBM HR Analytics dataset), which typically includes:
+
+Employee ID
+
+Age, Gender, Marital Status
+
+Job Role, Department, Education
+
+Monthly Income, Years at Company, Years Since Last Promotion
+
+Performance Rating, Job Satisfaction, Work-life Balance
+
+Attrition (Yes/No)
+
 
 ## 📂 How to Use
 
