@@ -18,13 +18,18 @@ This project is a Power BI-based HR Analytics dashboard designed to provide insi
 - Analyze workforce demographics
 - Monitor satisfaction and performance metrics
 - Help HR teams take data-driven decisions
+- Analyze employee attrition and identify high-risk segments
 
 
 ## 🛠 Tools Used
 
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query Editor
+Power BI Desktop – For dashboard creation and data modeling
+
+DAX (Data Analysis Expressions) – For calculated KPIs and measures
+
+Power Query – For data cleaning and transformation
+
+Excel / CSV (Data Source) – Mock data representing employee records
 
 
 ## 📂 How to Use
